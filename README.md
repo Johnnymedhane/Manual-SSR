@@ -6,4 +6,5 @@ A minimal example demonstrating manual server-side rendering (SSR) with React.
 - Hydrates the client UI via `client.js`.
 - Uses `@babel/register` to enable JSX on the server during development.
 
-Open http://localhost:8000 in your browser.
+
+
